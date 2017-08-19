@@ -1,0 +1,168 @@
+{
+	"gear": [
+
+		{
+			"name": "Kahvipannu ja pannukahvi",
+			"text": "Reissulla uutena mukana pannu ja kahvit aikaisempien pussikahvien sijaan. Voi että, kylläpä maistuu paremmalta ja tunnelmakin on kohdillaan. Ensi kerralla mukaan hieman vahvempaa kahvia (tumma paahtoa).",
+			"pros": ["Maku","Helppo kaataa","Toimii myös teelle"],
+			"cons": ["Vain mustana (harkintaan maitojauhetta)", "1 litran pannu riittää vain kahdelle", "Ei muuta käyttöä"],
+			"verdict": "Suosittelemme",
+			"image": "trangia.JPG"
+		},
+		{
+			"name": "Pokkari (DMC-LX2)",
+			"text": "Hyvä, tulee kuvattua enemmän, koska helppo saada esiin. Ulkoneva linssi aiheutti pientä säätöä tunkiessa rinkan lannevyön taskuun. Mukaan tarvitaan myös joku vesitiivis, mutta kätevä kotelo kameralle.",
+			"pros": ["Tulee otettua enemmän kuvia","Pienempi paino","Kyseisessä pokkarissa kätevä ominaisuus, joissa kuviin saa liitettyä 5 sec ääniraidan."],
+			"cons": ["Kuvan laatu vaativammissa oloissa","Pokkari ilman ulkonevaa objektiivia mahtuisi paremmin taskuun"],
+			"verdict": "Suosittelemme",
+			"image": "dmc-lx2.jpeg"
+		},
+		{
+			"name": "ThermaCell hyttyskarkoitin",
+			"text": "Butaanilla toimiva hyttyskarkoitin. Lupaa 20m alueen vapaaksi hyttysistä. Tuntuu toimivan, mutta teho toki rajoittuu pienessäkin tuulessa ja alue on todellisuudessa pienempi. Pidettiin päällä aina pidemmillä ruokailutauoilla, jotta sai rauhassa kokkailla.",
+			"pros": ["Toimii oikeastaan aika hyvin","Tuo rauhan ötököiltä pidemmillä tauoilla"],
+			"cons": ["Paino","Tuulessa teho heikompi","Ei tietenkään toimi liikkeessä"],
+			"verdict": "Varauksella",
+			"image": "thermacell.jpeg"
+		},
+		{
+			"name": "Vesileili Ortlieb 10l",
+			"text": "Käytännössä kuivasäkki, jonka pohjaan liitetty kierrettävä venttiili. Venttiili olisi käytettävämpi puristettavana / käännettävänä hanana, jolloin käyttö onnistuisi yhdellä kädellä. Käännettävä hana luultavasti paras, sillä sitä saisi operoitua yhdellä kädellä ja pysyisi auki itsestään.",
+			"pros": ["Ehdoton apu leirielemään","Kestävä materiaali pussissa ja venttiilissä","Sopiva koko","Toimii myös kuivasäkkinä"],
+			"cons": ["Käyttö vaatii kaksi kättä"],
+			"verdict": "Varauksella",
+			"image": "ortlieb.jpg"
+		},
+		{
+			"name": "Fjällräven Kajka 100l",
+			"text": "100 litrainen rinkka loistavilla ominaisuuksilla. Pahimpana miinuksena alemmat sivutaskut, jotka ovat ylhäältä auki olevat verkkotaskut. Vaelluksella toimii ihan hyvin; toisella puolella oli trangia ja toisella juomapullo, mutta esim lentokokeen ruumassa ei taskuissa voi säilyttää mitään. Olisin mieluummin ottanut vetoketjulliset normaalit taskut.",
+			"pros": ["Tilava","Aukeava etuosa","Hyvä kantaa","Juomapullo käden ulottuvilla verkkotaskussa"],
+			"cons": ["Alemmat sivutaskut saisivat olla normaalit vetoketjulliset verkkotaskujen sijaan","Sadesuojalle saisi olla oma paikka rinkan pohjassa","Alaosan sisällä oleva verkko-ominaisuus turha"],
+			"verdict": "Suosittelemme",
+			"image": "kajka100.jpeg"
+		},
+		{
+			"name": "Pitkähihainen urheilupaita",
+			"text": "SOC:in pitkähihainen urheilupaita. Toimii vaellluspaitana hyvin. Ei ole täysin hyttysen kestävä, mutta antaa jonkin verran suojaa. Liikkeellä ollessa täysin kelpo paita, mutta paikallaan pääsee itikat syömään. Kaksi paitaa päällekkäin niin suojaus on riittävä.",
+			"pros": ["Kevyt","Kuivuu nopeasti","Edullinen"],
+			"cons": ["Itikat pistää läpi"],
+			"verdict": "Suosittelemme",
+			"image": "soc.jpeg"
+		},
+		{
+			"name": "Permetriini käsittely",
+			"text": "Koemielessä ostin vaatteiden ötökkäkarkoitteena käytettävää Permetriiniä. Käsittelin sillä yhden SOC:in pitkähihaisen urheilupaidan. Aine tuntuu toimivan, hyttysiä laskeutuu paidalle, mutta ne eivät viihdy tarpeeksi pitkään pistääkseen. Vaatii vielä lisätestausta.",
+			"pros": ["Tuntuu toimivan","Ohuesta paidasta saa hyttysen kestävän"],
+			"cons": ["Myrkyn käyttö hieman epäilyttää"],
+			"verdict": "Varauksella",
+			"image": "permetriini.jpeg"
+		},
+		{
+			"name": "Garmin Fenix 2",
+			"text": "Urheilukello reitin tallennukseen ja seurantaan. Fenixissä saa Ultra Track moodissa asetettua itse GPS intervallin. Omien testien mukaan 10 minuutin intervallilla akkua kuluu noin 1% tunnissa. Kentällä pidemmässä testissä akku tuntui hupenevan nopeammin ja ilman varavirtaa olisi loppunut kesken. Pidin kelloa 5 minuutin intervallilla ja latasin sitä kaksi kertaa reissussa, yhteensä noin täyden akun verran. Kellosta pystyy vaelluksen aikana kätevästi seuraamaan kuljettua kokonaismatkaa ja näin tekemään hyvinkin tarkkoja suunnistuksia. Jostain syystä osa näytöistä (esim. kierrosaika + matka) päivittyvät ensin jatkuvasti (tietysty vain aika) mutta sitten vain intervallin välein, vaikka kierrosaika voisi päivittyä jatkuvasti. Lap-toimintoa on kätevä käyttää aloittamalla uusi kierros aina edelliseltä taukopaikalta/tiedetyltä sijainnilta, sillä se pakottaa myös GPS sijainnin ottamisen.",
+			"pros": ["Laadukas","Tallettaa vaellusreitin","Akun kesto","Auttaa suunnistuksessa"],
+			"cons": ["Satunnaiset kaatuilut","Osa näytöistä (esim lap) päivittyvät vain intervallin mukaan"],
+			"verdict": "Suosittelemme",
+			"image": "fenix2.jpeg"
+		},
+		{
+			"name": "Wasa merisuola&sesam näkkileipä",
+			"text": "Parasta näkkileipää",
+			"pros": ["Maku"],
+			"cons": [""],
+			"verdict": "Suosittelemme",
+			"image": "wasaSesam.jpeg"
+		},
+		{
+			"name": "Marmot Early Light 2P",
+			"text": "Kahden hengen retkeilyteltta",
+			"pros": ["Tuuletus todella hyvä","Molemmilla oma sisäänkäynti"],
+			"cons": ["Sateella kasatessa sataa sisään kunnes saa päälikankaan paikalleen","Ei vakuuta rakenteiltaan","Veden pitävyys ääriolosuhteissa epäilyttää","Ei pidä lämpöä, joten ei kylmiin keleihin"],
+			"verdict": "Varauksella",
+			"image": "earlyLight2P.jpeg"
+		},
+		{
+			"name": "IceBreaker merino kalsarit",
+			"text": "Ohuet merinovillaiset kalsarit",
+			"pros": ["Tuntuu lämpimiltä ja mukavilta märkänäkin","Mukavat kävellessä"],
+			"cons": ["Kuivuu hitaammin kuin tekninen"],
+			"verdict": "Suosittelemme",
+			"image": "iceBreaker.jpeg"
+		},
+		{
+			"name": "Chifonet tiskirätti",
+			"text": "Hyvin vettä imevä rätti astioiden yms kuivaamiseen",
+			"pros": ["Ei paina mitään","Pientä luksusta","Voi desinfioida reissussa keittämällä"],
+			"cons": [],
+			"verdict": "Suosittelemme",
+			"image": "chifonet.jpeg"
+		}
+	],
+	"lessonsLearned": [
+		{
+			"description": "Tehdään etukäteissuunnittelua kalastuksen suhteen paremmin. Emme selvitelleet kovinkaan paljoa etukäteen kohdelajeja, paikkoja ja kalastustapoja. Myös alamitat on hyvä tarkistaa ennen reissuun lähtöä.",
+			"action": "Tehdään etukäteen parempaa reittisuunnittelua, jotta saadaan parhaat kalavedet käytyä läpi. Tehdään parempaa tutkimusta muiden kokemuksista alueelta. Selvitetään jos joku palvelu näyttäisi vesien syvyyskäyriä (/satelliittikuvia), jotta turhia koukkuja liian mataliin vesistöihin ei tarvitse tehdä."
+		},
+		{
+			"description": "Pannukahvit voittaa pikakahvit mennen tullen, mutta kahvi saa olla vahvaa ja mukaan pussin sulkija.",
+			"action": "Vahvempaa kahvia (tummapaahtoa) ja pussin sulkija"
+		},
+		{
+			"description": "Aluspaidat jättävät kaulan tai niskan altiiksi hyttysille",
+			"action": "Vaelluspaidan tulee olla kauluksellinen"
+		},
+		{
+			"description": "Tavallinen kauppapussi ruokapussina huono, koska esim meetwursti paketit repivät pussin rikki.",
+			"action": "Mukaan joku vahvempi pussi, jossa sailyttää päivittäin käytettävät ruokatavarat."
+		},
+		{
+			"description": "Mikolla tuli taas vasempaan jalkaan rakkula vaikka tällä kertaa oli jo kotona laitettu Compeedit valmiiksi molempiin jalkoihin. Mutta rakkula oli nyt pienempi ja uuden compeedin myötä ei vaivannut enää loppureissusta.",
+			"action": "Compeedit kotona jalkaan myös ensi kerralla."
+		},
+		{
+			"description": "Paikoitellen heittopaikat sellaisia, että kalojen rantautus onnistuisi paljon paremmin haavilla. Lisäksi jää harmittamaan jos harvat mittakalat karkuuttaa ylösnostossa.",
+			"action": "Sopiva haavi ostetaan ja otetaan mukaan"
+		},
+		{
+			"description": "Snickers paras suklaa reissussa. Ei murene ja maistuu parhaalta.",
+			"action": "Jätetään suklaalevyt ja muut suosiolla kotiin"
+		},
+		{
+			"description": "Välineet koukun irroitukseen. Alamittaista kalaa jos sattuu tulemaan paljonkin, niin osassa koukkua vaikea saada käsipelillä ilman kalaa vahingoittamatta irti.",
+			"action": "Harkintaan joku apuväline koukun helpompaa irroitukseen"
+		},
+		{
+			"description": "Kompassin päivitys. Nykyisestä on jo viivat kuluneet ja on aika hidas verratuna Markuksen kompassiin",
+			"action": "Uusi kompassi ostoslistalle"
+		},
+		{
+			"description": "Viski maistuu reissussa! Tällä kertaa sitä oli mukana enemmän, mutta edelleen pääsi loppumaan.",
+			"action": "Jalokahvit vaihdetaan viskiin"
+		},
+		{
+			"description": "Kelan pakkaukseen ja kuljetukseen jokin kotelo olisi hyvä. Kela on vaikea pakattava ja siinä on teräviä kulmia.",
+			"action": "Keloille jokin hyvä kotelo mukaan"
+		},
+		{
+			"description": "Isojen puukkojen tarve mietityttää. Itselläni ei ollut kertaakaan tarvetta puiden pilkkomiseen tai muuhun heavy duty hommaan. Reissussa voisi olla yksi jykevämpi puukko (esim. Peltosen sissipuukko) ja muilla kompaktimmat ja kevyemmät vaihtoehdot.",
+			"action": "Pohditaan asiaa ensi reissulle"
+		},
+		{
+			"description": "Pyyhe tuntuu reissu reissulta turhemmalta. Tällä kertaa mukana oli ohut harso, joka ajoi asiansa itsensä kuivaamiseen. Uinti tms. keikkoja ei montaa reissussa tule, joten tuski sitä varten kannattaa tilaa vievää ja painavaa pyyhettä kantaa. Harso on kevyt ja siitä voi siltä saada lähes saman verran iloa.",
+			"action": "Ei pyyhkeitä enää mukaan"
+		},
+		{
+			"description": "Urheilukellon satunnaiset kaatumiset aiheuttivat päänvaivaa. Tilanteissa olisi auttanut jos olisi tiennyt miten kellon voi buutata.",
+			"action": "Selvitetään etukäteen miten kello sammutetaan/käynnistetään/buutataan"
+		},
+		{
+			"description": "Ruokaa tuntui olevan ylimäärin mukana. Saimme syötyä vain yhden lämpimän aterian päivässä, joka oli yksi retkimuona tai yksi pataruoka kuivatulla jauhelihalla kahteen pekkaan. Molemmiltä jäi yli myös yksi kokonainen juusto (300g) ja kokonainen meetwursti (250g).",
+			"action": "Tuunataan ruokien määrää seuraavalle reissulle"
+		},
+		{
+			"description": "Säätiedot ovat ihan mukava lisä reissussa. Tällä kertaa saimme tekstiviestiä säätiedot iltaisin. Seuraavana päivänä jos sattui tunturin päälle, yritimme saada kenttää matkapuhelimella.",
+			"action": "Käytännössä olisi parempi lähetää säätiedot aamuisin, sillä todennäköisemmin kännykällä saa kentän joskus päivän aikana. Myös nappikuulokkeet kannattaa ottaa mukaan, sillä ainakin Mikon puhelimessa on FM radio, mutta se vaatii kuulokkeet toimiakseen. Samalla pitäisi selvittää miltä asemalta saisi paikallisen sään."
+		}
+	]
+	
+}

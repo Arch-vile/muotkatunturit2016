@@ -1,0 +1,12 @@
+<figure ng-repeat="image in paragraph.images.slice().reverse() track by $index" class="floatingFigure">
+		<img ng-src="resources/data/images/{{image.file}}" alt="{{image.caption}}" />	
+		<figcaption>{{image.caption}}</figcaption>
+</figure>
+<p>
+	<span style="white-space: nowrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+	<br/>
+	<span>
+		{{paragraph.text}}
+	</span>
+</p>
+<p style="clear: both"></p>

@@ -1,0 +1,24 @@
+
+<h1>{{content.location}} {{content.year}}</h1>
+
+
+<h2>Esipuhe</h2>
+<div class="prolog paragraph" ng-repeat="paragraph in content.prolog.paragraphs">
+	<div data-ng-include data-src="'travelLog/paragraph.html'"></div>
+</div>
+
+<div class="entry" ng-repeat="entry in content.entries">
+	<h2>{{entry.date | date:'dd.MM.yyyy'}} {{entry.summary}} ({{entry.routeLength}} km)</h2>
+	<div class="paragraph" ng-repeat="paragraph in entry.paragraphs">
+		<div data-ng-include data-src="'travelLog/paragraph.html'"></div>
+	</div>
+</div>
+
+<h2>Yhteenveto ja muut turinat</h2>
+<div class="postlog paragraph" ng-repeat="paragraph in content.postlog.paragraphs">
+	<div data-ng-include data-src="'travelLog/paragraph.html'"></div>
+</div>
+
+
+
+

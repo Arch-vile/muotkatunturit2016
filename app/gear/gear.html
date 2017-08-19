@@ -1,0 +1,37 @@
+<h1>Uusien varusteiden arviot</h1>
+<table class="gear">
+	<tr>
+		<td>Varuste</td>
+		<td>Kommentit</td>
+		<td>Tuomio</td>
+		<td></td>
+	</tr>
+	<tr ng-repeat="gear in content.gear">
+		<td>{{gear.name}}</td>
+		<td>
+			<p>{{gear.text}}</p>
+			<span>Hyvää:</span>
+			<ul>
+				<li ng-repeat="pro in gear.pros">
+					{{pro}}
+				</li>
+			</ul>
+			<span>Huonoa:</span>
+			<ul>
+				<li ng-repeat="con in gear.cons">
+					{{con}}
+				</li>
+			</ul>
+		</td>
+		<td><p>{{gear.verdict}}</p></td>
+		<td>
+			<img ng-src="resources/data/images/gear/{{gear.image || 'missing.jpeg'}}"/>	
+		</td>
+	</tr>
+</table>
+
+<h1>Lessons learned</h1>
+<div ng-repeat="lesson in content.lessonsLearned">
+	<p class="lessonLearned">{{lesson.description}}</p>
+	<p class="lessonAction">{{lesson.action}}</p>
+</div>

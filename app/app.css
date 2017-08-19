@@ -1,0 +1,76 @@
+/* app css stylesheet */
+BODY {
+	margin: 50px;
+	background-image: url("resources/images/stonewall.jpg")
+}
+
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
+
+.footer {
+	color: white;
+	background-color: black;	
+}
+
+figure {
+    border: 1px solid black;
+    margin: 20px; 
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 1px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+figure.floatingFigure {
+	float: right;
+}
+
+TABLE.gear TD {
+	border: 1px solid black;
+}
+
+TABLE.gear IMG {
+	width: 100px;
+}
+
+P.lessonLearned {
+	font-weight: bold;
+}
+
+P.lessonAction {
+	font-style: italic;
+	margin-left: 2em;
+}
