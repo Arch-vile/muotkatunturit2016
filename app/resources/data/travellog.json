@@ -136,34 +136,38 @@
 						},
 						{
 							"file": "DSC06725.jpg",
-							"caption": "Ilta-aurinkoa leiripaikalla"
+							"caption": "Bartacohkka"
 						}
 					]
 				}
 			]
 		},
 		{
-			"date": "2016-08-xx",
-			"summary": "xxx - xx",
+			"date": "2016-08-22",
+			"summary": "Porttokallio - Kurtojoen kämppä",
 			"routeLength": 23456,
 			"paragraphs": [
 				{
-					"text": "dddd",
+					"text": "Suuntana Kurtojoen kämppä ja puro, josta viime vuonna saatiin Markuksen kanssa hyvin tammukoita. Aamu alkoi selkeällä taivaalla, mutta pian lähdön jälkeen alkoivat ajoittaiset tihkusateet. Matkalla kalastettiin Kivikaltion oja, josta karkuutus sintille taimenelle. Ojalta Nuorttamus Gaisvarrin kaksoistunturin välistä. Mikolla kengät edelleen märät ja päästävät vaan lisää vettä sisään. Tuvalla tavoitteena kuivata kengät ja laittaaa rasvaa pintaan. Päivän suunnistukset menivät ihan nappiin.",
 					"images": [
 						{
-							"file": "cccc.jpg",
-							"caption": "xxxxx"
-						},
-						{
-							"file": "xxxx.jpg",
-							"caption": "xxxxx"
+							"file": "DSC06736.jpg",
+							"caption": "Kurtojoen kämpällä"
 						}
 					]
+				},
+				{
+					"text": "Kurtojokean kalastaen noin tunnin ajan, vesi on todella korkealla (varmaan 40 senttiä korkeammalla kuin viime vuonna) ja kala ei käy pyydykseen. Perkeleen tammukat. Nyt kun niitä saisi syödä, niin ei yhtään jää kiinni. Käytiin suihkussa, lämmitettiin tupa ja paistettiin letut! Ville myös pyykkäsi. Kämppä on loistava ja todella vähällä käytöllä. Viime vuoden käynnin jälkeen 32 uutta merkintää. Illalla alkoi sade ja huomiselle luvattu sadetta koko päiväksi. Saapa nähdä mihin aikaan päästään liikkeelle. Lähes koko päivän oli hyvää maastoa ja päivästä tulikin tähän astisen reissun pisin.",
+					"images": []
+				},
+				{
+					"text": "Valitettavasti kuvat loppuivat tähän. Villen kamerasta loppui akku (ilmeisesti jää helposti vahingossa päälle ja automaattinen virrankatkaisu ei jostain syystä pelitä).",
+					"images": []
 				}
 			]
 		},
 		{
-			"date": "2016-08-xx",
+			"date": "2016-08-23",
 			"summary": "xxx - xx",
 			"routeLength": 23456,
 			"paragraphs": [
