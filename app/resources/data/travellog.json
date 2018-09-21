@@ -168,21 +168,33 @@
 		},
 		{
 			"date": "2016-08-23",
-			"summary": "xxx - xx",
+			"summary": "Kurtojoki - Saddejohka",
 			"routeLength": 23456,
 			"paragraphs": [
 				{
-					"text": "dddd",
-					"images": [
-						{
-							"file": "cccc.jpg",
-							"caption": "xxxxx"
-						},
-						{
-							"file": "xxxx.jpg",
-							"caption": "xxxxx"
-						}
-					]
+					"text": "Päivä alkoi sateisena ja pidettiin sadetta Kurjojoen tuvalla. Kun sade ei tuntunut loppuvan lähdimme lounaan jälkeen noin klo 14 liikkeelle. Viimeaikaisista sateiden takia Kurtojoki tulvi kunnolla ja yli piti mennä munasillaan. Muutenkin tänään kaikki suopurot olivat vaikeita ylitettäviä ja viimeisessä ennen leiriä Mikko kastelikin kunnolla kenkänsä.",
+					"images": [	]
+				},
+				{
+					"text": "Matka etelään Givganjavrille sujui helposti. Mikko yritti järveä kalastaa, mutta veden ollessa korkealla oli kalastus rannalta vastatuuleen mahdotonta. Järveltä Vallen Mikon maan läpi kohti Saddejohkaa. Matkalla mentiin vähän vinoon ja jouduttiin länsipuolen suolammelle. Sateessa ja väsyksissä luulimme Saddajavrin pääksi ja lähdimme väärään suuntaan. Suon päässä katsottiin kompassia ja lähdettiin takaisin kohti Saddejohkaa, jonka eteläpuolelle leiri. Känny kuului tänäänkin hyvin tuntureiden rinteillä. Illasta Villekin maistui taas pienet viskit nauttiessa männyn alaoksien tarjoamasta komeasta nuotiosta."
+				}
+			]
+		},
+		{
+			"date": "2016-08-24",
+			"summary": "Saddejohka - Angeling tie",
+			"routeLength": 23456,
+			"paragraphs": [
+				{
+					"text": "Herättiin kauniiseen mutta kylmään aamuun. Yöllä oli ollut hallaa. Tarkastettiin puhelimen GPS:llä koordinaatit ja olimme siellä missä kuvittelimmekin. Jatkoimme etelään kohti Kurtojoen ylitystä. Kuten odotettua joella tulva ja kova virtaus. Yritimme ensin yli yhdestä kohtaa, mutta virta oli liian voimakas. Seuraavasta kohdasta pääsimme yli, mutta homma tuntui kyllä hieman liiankin vaaralliselta. Mikon crocks kenkä jäi ylitystä seuraavan suopuron pohjaan.",
+					"images": [ ]
+				},
+				{
+					"text": "Loppumatka sujui hyvin ja pääsimme Angelin tielle aikataulussa noin klo 17. Jari tuli noukkimaan meidät ja pääsimme erämökille syömään ja saunomaan!",
+					"images": [{
+						"file": "IMG_4800.jpg",
+						"caption": "Matkalla Jarin kämpälle"
+					}]
 				}
 			]
 		}
